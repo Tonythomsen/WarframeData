@@ -2687,7 +2687,7 @@ Rotation A:
   1 Transient Fortitude, UNCOMMON, 4.17%
   1 Depleted Reload, UNCOMMON, 4.17%
 
-[VoidKeyMissionRewards/OrokinCaptureRewardsA]
+[VoidKeyMissionRewards/OrokinCaptureRewards Tower I]
 
 Rotation A:
   1 ODONATA PRIME BLUEPRINT, UNCOMMON, 5.64%, 30 Ducats
@@ -2698,7 +2698,7 @@ Rotation A:
   1 LEX PRIME RECEIVER, UNCOMMON, 5.64%, 30 Ducats
   1 TOWER II CAPTURE KEY, COMMON, 25.81%
 
-[VoidKeyMissionRewards/OrokinCaptureRewardsB]
+[VoidKeyMissionRewards/OrokinCaptureRewards Tower II]
 
 Rotation A:
   1 ORTHOS PRIME HANDLE, UNCOMMON, 14.29%, 10 Ducats
@@ -2709,7 +2709,7 @@ Rotation A:
   1 NYX PRIME BLUEPRINT, UNCOMMON, 14.29%, 50 Ducats
   1 KAVASA PRIME BAND, UNCOMMON, 14.29%, 50 Ducats
 
-[VoidKeyMissionRewards/OrokinCaptureRewardsC]
+[VoidKeyMissionRewards/OrokinCaptureRewards Tower III]
 
 Rotation A:
   1 NIKANA PRIME HILT, UNCOMMON, 5.64%, 30 Ducats
@@ -2720,7 +2720,7 @@ Rotation A:
   1 BURSTON PRIME BARREL, COMMON, 25.81%, 20 Ducats
   1 LEX PRIME BARREL, COMMON, 25.81%, 20 Ducats
 
-[VoidKeyMissionRewards/OrokinCaptureRewardsD]
+[VoidKeyMissionRewards/OrokinCaptureRewards Tower IV]
 
 Rotation A:
   1 NYX PRIME SYSTEMS BLUEPRINT, COMMON, 19.36%, 10 Ducats
@@ -2730,7 +2730,7 @@ Rotation A:
   1 AKBRONCO PRIME LINK, COMMON, 19.36%, 30 Ducats
   5 Rare Fusion Core, UNCOMMON, 11.28%
 
-[VoidKeyMissionRewards/OrokinDefenseRewardsA]
+[VoidKeyMissionRewards/OrokinDefenseRewards Tower I]
 
 Rotation A:
   1 Rare Fusion Core, COMMON, 38.72%
@@ -2753,7 +2753,7 @@ Rotation C:
   1 HIKOU PRIME STARS, COMMON, 25.81%, 20 Ducats
   1 SCINDO PRIME HANDLE, COMMON, 25.81%, 30 Ducats
 
-[VoidKeyMissionRewards/OrokinDefenseRewardsB]
+[VoidKeyMissionRewards/OrokinDefenseRewards Tower II]
 
 Rotation A:
   2 Rare Fusion Core, UNCOMMON, 20%
@@ -2775,7 +2775,7 @@ Rotation C:
   1 PARIS PRIME UPPER LIMB, UNCOMMON, 20%, 10 Ducats
   1 FANG PRIME BLUEPRINT, UNCOMMON, 20%, 20 Ducats
 
-[VoidKeyMissionRewards/OrokinDefenseRewardsC]
+[VoidKeyMissionRewards/OrokinDefenseRewards Tower III]
 
 Rotation A:
   3 Rare Fusion Core, COMMON, 25%
@@ -2799,7 +2799,7 @@ Rotation C:
   1 NYX PRIME BLUEPRINT, COMMON, 19.36%, 50 Ducats
   1 FRAGOR PRIME HANDLE, COMMON, 19.36%, 10 Ducats
 
-[VoidKeyMissionRewards/OrokinDefenseRewardsD]
+[VoidKeyMissionRewards/OrokinDefenseRewards Tower IV]
 
 Rotation A:
   5 Rare Fusion Core, UNCOMMON, 20%
@@ -2824,7 +2824,7 @@ Rotation C:
   1 HIKOU PRIME POUCH, COMMON, 19.36%, 20 Ducats
   5 Rare Fusion Core, UNCOMMON, 5.64%
 
-[VoidKeyMissionRewards/OrokinExterminateRewardsA]
+[VoidKeyMissionRewards/OrokinExterminateRewards Tower I]
 
 Rotation A:
   1 SCINDO PRIME BLUEPRINT, UNCOMMON, 7.52%, 50 Ducats
@@ -2834,7 +2834,7 @@ Rotation A:
   1 TOWER II EXTERMINATE KEY, COMMON, 25.81%
   1 BURSTON PRIME STOCK, COMMON, 25.81%, 10 Ducats
 
-[VoidKeyMissionRewards/OrokinExterminateRewardsB]
+[VoidKeyMissionRewards/OrokinExterminateRewards Tower II]
 
 Rotation A:
   1 CARRIER PRIME CEREBRUM, UNCOMMON, 7.52%, 50 Ducats
@@ -2845,7 +2845,7 @@ Rotation A:
   1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, 19.36%, 50 Ducats
   1 VOLT PRIME SYSTEMS BLUEPRINT, UNCOMMON, 7.52%, 30 Ducats
 
-[VoidKeyMissionRewards/OrokinExterminateRewardsC]
+[VoidKeyMissionRewards/OrokinExterminateRewards Tower III]
 
 Rotation A:
   1 NYX PRIME CHASSIS BLUEPRINT, UNCOMMON, 5.64%, 50 Ducats
@@ -2855,7 +2855,7 @@ Rotation A:
   1 SARYN PRIME BLUEPRINT, UNCOMMON, 5.64%, 30 Ducats
   1 NYX PRIME SYSTEMS BLUEPRINT, COMMON, 38.72%, 10 Ducats
 
-[VoidKeyMissionRewards/OrokinExterminateRewardsD]
+[VoidKeyMissionRewards/OrokinExterminateRewards Tower IV]
 
 Rotation A:
   1 KAVASA PRIME BUCKLE, UNCOMMON, 5.64%, 50 Ducats
@@ -2866,7 +2866,7 @@ Rotation A:
   1 VECTIS PRIME RECEIVER, UNCOMMON, 5.64%, 50 Ducats
   5 Rare Fusion Core, COMMON, 25.81%
 
-[VoidKeyMissionRewards/OrokinInterceptionRewardsD]
+[VoidKeyMissionRewards/OrokinInterceptionRewards Tower IV]
 
 Rotation A:
   5 Rare Fusion Core, UNCOMMON, 25%
@@ -2889,7 +2889,7 @@ Rotation C:
   1 BRONCO PRIME BARREL, COMMON, 14.29%, 50 Ducats
   1 FORMA BLUEPRINT, COMMON, 14.29%
 
-[VoidKeyMissionRewards/OrokinMobileDefenseRewardsA]
+[VoidKeyMissionRewards/OrokinMobileDefenseRewards Tower I]
 
 Rotation A:
   1 SARYN PRIME HELMET BLUEPRINT, UNCOMMON, 7.52%, 30 Ducats
@@ -2899,7 +2899,7 @@ Rotation A:
   1 TOWER I CAPTURE KEY, COMMON, 25.81%
   1 TOWER II MOBILE DEFENSE KEY, COMMON, 25.81%
 
-[VoidKeyMissionRewards/OrokinMobileDefenseRewardsB]
+[VoidKeyMissionRewards/OrokinMobileDefenseRewards Tower II]
 
 Rotation A:
   1 BURSTON PRIME BLUEPRINT, COMMON, 19.36%, 20 Ducats
@@ -2909,7 +2909,7 @@ Rotation A:
   1 VASTO PRIME BARREL, COMMON, 19.36%, 10 Ducats
   1 SPIRA PRIME BLUEPRINT, COMMON, 19.36%, 10 Ducats
 
-[VoidKeyMissionRewards/OrokinMobileDefenseRewardsC]
+[VoidKeyMissionRewards/OrokinMobileDefenseRewards Tower III]
 
 Rotation A:
   1 VECTIS PRIME STOCK, UNCOMMON, 5.64%, 50 Ducats
@@ -2920,7 +2920,7 @@ Rotation A:
   1 SOMA PRIME BARREL, COMMON, 25.81%, 10 Ducats
   1 BURSTON PRIME RECEIVER, COMMON, 25.81%, 30 Ducats
 
-[VoidKeyMissionRewards/OrokinMobileDefenseRewardsD]
+[VoidKeyMissionRewards/OrokinMobileDefenseRewards Tower IV]
 
 Rotation A:
   1 CARRIER PRIME CARAPACE, UNCOMMON, 16.67%, 50 Ducats
@@ -2930,7 +2930,7 @@ Rotation A:
   1 SPIRA PRIME BLUEPRINT, UNCOMMON, 16.67%, 10 Ducats
   5 Rare Fusion Core, UNCOMMON, 16.67%
 
-[VoidKeyMissionRewards/OrokinSabotageRewardsA]
+[VoidKeyMissionRewards/OrokinSabotageRewards Tower I]
 
 Rotation A:
   1 SCINDO PRIME HANDLE, UNCOMMON, 11.28%, 30 Ducats
@@ -2957,7 +2957,7 @@ Rotation C:
   1 Uncommon Fusion Core, UNCOMMON, 11.28%
   1 Common Fusion Core, COMMON, 19.36%
 
-[VoidKeyMissionRewards/OrokinSabotageRewardsB]
+[VoidKeyMissionRewards/OrokinSabotageRewards Tower II]
 
 Rotation A:
   1 NYX PRIME HELMET BLUEPRINT, UNCOMMON, 5.64%, 50 Ducats
@@ -2985,7 +2985,7 @@ Rotation C:
   1 Uncommon Fusion Core, UNCOMMON, 11.28%
   1 Rare Fusion Core, UNCOMMON, 11.28%
 
-[VoidKeyMissionRewards/OrokinSabotageRewardsC]
+[VoidKeyMissionRewards/OrokinSabotageRewards Tower III]
 
 Rotation A:
   1 NYX PRIME BLUEPRINT, COMMON, 25.29%, 50 Ducats
@@ -3014,7 +3014,7 @@ Rotation C:
   1 Uncommon Fusion Core, UNCOMMON, 11.28%
   1 Common Fusion Core, COMMON, 19.36%
 
-[VoidKeyMissionRewards/OrokinSabotageRewardsD]
+[VoidKeyMissionRewards/OrokinSabotageRewards Tower IV]
 
 Rotation A:
   1 AKSTILETTO PRIME RECEIVER, UNCOMMON, 7.52%, 30 Ducats
@@ -3042,7 +3042,7 @@ Rotation C:
   1 Uncommon Fusion Core, UNCOMMON, 11.28%
   1 Common Fusion Core, COMMON, 19.36%
 
-[VoidKeyMissionRewards/OrokinSurvivalRewardsA]
+[VoidKeyMissionRewards/OrokinSurvivalRewards Tower I]
 
 Rotation A:
   1 Rare Fusion Core, COMMON, 16.67%
@@ -3067,7 +3067,7 @@ Rotation C:
   1 BURSTON PRIME STOCK, COMMON, 25.81%, 10 Ducats
   1 NOVA PRIME HELMET BLUEPRINT, COMMON, 25.81%, 20 Ducats
 
-[VoidKeyMissionRewards/OrokinSurvivalRewardsB]
+[VoidKeyMissionRewards/OrokinSurvivalRewards Tower II]
 
 Rotation A:
   2 Rare Fusion Core, COMMON, 20%
@@ -3092,7 +3092,7 @@ Rotation C:
   1 BRONCO PRIME BLUEPRINT, COMMON, 19.36%, 10 Ducats
   1 TRINITY PRIME CHASSIS BLUEPRINT, COMMON, 19.36%, 30 Ducats
 
-[VoidKeyMissionRewards/OrokinSurvivalRewardsC]
+[VoidKeyMissionRewards/OrokinSurvivalRewards Tower III]
 
 Rotation A:
   3 Rare Fusion Core, UNCOMMON, 20%
@@ -3118,7 +3118,7 @@ Rotation C:
   1 NOVA PRIME CHASSIS BLUEPRINT, UNCOMMON, 5.53%, 50 Ducats
   1 FORMA, RARE, 2.01%
 
-[VoidKeyMissionRewards/OrokinSurvivalRewardsD]
+[VoidKeyMissionRewards/OrokinSurvivalRewards Tower IV]
 
 Rotation A:
   5 Uncommon Fusion Core, COMMON, 25%
